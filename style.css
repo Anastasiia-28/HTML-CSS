@@ -1,0 +1,87 @@
+#simple-linear {
+    background-image: url('images/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#photo{
+    width=168px; 
+    height=175px;
+}
+
+#logo{
+    margin-top: 3px;
+    float: left;
+    width:50px;
+}
+
+div {
+    margin-top: 20px;
+    font-size: 20px;
+    height: 80px;
+    text-align:center;
+    color: white;
+}
+
+.font{
+    font-family: sans-serif;
+}
+
+p {
+    text-indent: 18px; 
+    line-height: 25px;
+    text-align: justify;
+}
+
+.text{
+    text-align: left;
+}
+
+#header {
+    background-color: #002030;
+    color: white;
+    max-width: 800px;
+    margin: auto;
+    margin-top: -20px;
+}
+
+h3, h4{
+    text-align: center;
+}
+
+.position{
+    max-width: 800px;
+    margin: auto;
+}
+
+.div-pos{
+    margin-top: 200px;
+}
+
+#main {
+    background: linear-gradient(#00344e, #4b8de9) fixed;
+    height: 900px;
+    margin-top: -20px;
+}
+
+#sidebar{
+    background-color: #005078;
+    float: left;
+    width: 230px;
+    height: 860px;
+    margin-left: 10px;
+}
+
+hr{
+    width: 450px;
+    color: #87CEFA;
+}
+
+#content{
+    background-color: linear-gradient(#00a0f0, #006497) fixed;
+    float: right;
+    height: 860px;
+    width: 500px;
+    color: white;
+    margin-right: 15px;
+}
